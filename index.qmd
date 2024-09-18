@@ -1,22 +1,22 @@
 ---
-title: "Charlotte Wickham"
-subtitle: "Data Scientist | Educator"
+title: "Albert Anesu Chimbi"
+subtitle: "GIS Specialist | Environmental Researcher"
 image: profile.jpg
-image-alt: Photo of Charlotte Wickham
+image-alt: Photo of Albert Anesu Chimbi
 about:
   id: hero-heading
   template: jolla
   links:
     - icon: github
       text: GitHub
-      href: https://github.com/cwickham
+      href: https://github.com/Anesu-Chimbi
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/charlotte-wickham-793a011a/
+      href: https://www.linkedin.com/in/albert-anesu-chimbi/
 ---
 
 ::: {#hero-heading}
 
-I currently work at [Posit, PBC](http://posit.co) on the Developer Relations team with a focus on [Quarto](http://quarto.org).
+I am a GIS Specialist and Environmental Researcher with a focus on leveraging geospatial technologies for sustainable solutions. My work includes projects in natural resources management, environmental research, and sustainable agricultural practices. I am passionate about using GIS tools to drive positive environmental impact.
 
 :::
