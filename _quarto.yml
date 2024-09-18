@@ -2,29 +2,30 @@ project:
   type: website
 
 website:
-  title: "cwick.co.nz"
-  site-url: cwick.co.nz
+  title: "Albert Anesu Chimbi"
+  site-url: your-site-url-here # Replace with your actual site URL
   search: false
-  open-graph: true 
+  open-graph: true
   page-footer:
-    left: "[Source](http://github.com/cwickham/cwick.co.nz)"
+    left: "[Source](https://github.com/Anesu-Chimbi/Shiny_OSM_Features)"
     right: "Built with {{< iconify mdi:heart >}} and {{< iconify simple-icons:quarto >}} [Quarto](http://quarto.org)"
   navbar:
     id: top-nav
     pinned: true
     toggle-position: right
     right:
-      - talks/index.qmd
-      - workshops/index.qmd
-      - teaching/index.qmd
+      - index.qmd
+      - about.qmd
+      - projects.qmd
+      - contact.qmd
     tools:
-    - icon: github
-      text: GitHub
-      href: https://github.com/cwickham
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/charlotte-wickham-793a011a/
+      - icon: github
+        text: GitHub
+        href: https://github.com/Anesu-Chimbi
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/albert-anesu-chimbi/
 
 format:
   html:
-    theme: [cosmo, styles.scss] 
+    theme: [cosmo, styles.scss]
